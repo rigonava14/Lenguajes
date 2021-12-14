@@ -32,6 +32,8 @@ class TokenType(enum.Enum):
     PERSONA = 124
     SI = 125
     MIENTRAS = 126
+    DECLARA = 127
+    METROS= 128
     
     ##OPERADORES
     EQ= 201
